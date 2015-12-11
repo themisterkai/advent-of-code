@@ -3,7 +3,6 @@ var elevator = function(string){
   for(var i = 0; i < string.length; i++){
 
     if (string[i] === "("){
-      //console.log("hello")
       
       floor++;
     } else if (string[i] === ")"){
@@ -11,14 +10,12 @@ var elevator = function(string){
     }
 
     if(floor === -1){
-      console.log("hello");
       console.log(i+1);
       break;
     }
   }
   console.log(floor);
   return floor;
-
   
 }
 
