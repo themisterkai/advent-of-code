@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Repo of my solutions for Advent of Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themisterkai/advent-of-code.git"
+  },
+  "author": "Kai Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themisterkai/advent-of-code/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/themisterkai/advent-of-code#readme",
+  "dependencies": {}
+}
